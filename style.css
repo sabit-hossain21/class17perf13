@@ -1,0 +1,30 @@
+#p1{
+	font-family: 'Lumanosimo';
+      font-weight:bold;
+    font-size: 30px;
+    font-style: italic;
+    color: blue;
+	
+	
+	}
+#p2{
+font-family:'Lumanosimo'"Bricolage Grotesque";
+	font-style:normal;
+	font-size: 30px;
+	font-variant:small-caps;
+    color: brown;
+}
+#p3{
+	
+font-family:'Dancing Script', 'times new roman';
+	font-weight:900;
+    font-size: 20px;
+}
+#p4{
+	font:italic small-caps bold 16px/70px serif;
+    font-size: 15px;
+}
+.fa-brands fa-google{
+	color:blue;
+	
+}
